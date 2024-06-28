@@ -181,7 +181,6 @@ body {
     font-weight: 800;
     font-style: normal;
     transition: all 0.1s linear;
-    -webkit-appearance: none;
     background-color: transparent;
     border: solid 2px #0077b2;
     border-radius: 4px;
